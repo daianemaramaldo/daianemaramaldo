@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @daianemm1
+- 👋 Hi, I’m @daianemaramaldo
 - 👀 I’m interested in Data Scientist
 - 🌱 I’m currently learning Data Scientist
 - 💞️ I’m looking to collaborate on projects
